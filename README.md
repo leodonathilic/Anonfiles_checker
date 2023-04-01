@@ -23,7 +23,7 @@ Finally add the receiving email address in the __email_receiver = ''__ variable 
 
 In this repository, you will find a requirements.txt file.
 The easy way to install every requirements is to open a command prompt (CMD) and travel to the folder's directory.
-Once done, type `pip -r requirements.txt` in the command prompt and please wait for every module to install (should be quick).
+Once done, type `pip install -r requirements.txt` in the command prompt and please wait for every module to install (should be quick).
 
 ## Usage
 
