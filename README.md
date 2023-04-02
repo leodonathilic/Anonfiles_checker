@@ -17,7 +17,7 @@ Once done, please click on this [link](https://myaccount.google.com/u/4/apppassw
 Select apps > Custom > *Choose the name you want*
 	
 Copy the 16 char password and paste it in the script, in the variable named __email_password = ''__ and add the email address in the __email_sender = ''__ variable.
-Finally add the receiving email address in the __email_receiver = ''__ variable and you are good to go to the [next part!](https://github.com/leodonathilic/Anonfiles_checker/edit/main/README.md#requirements)
+Finally add the receiving email address in the __email_receiver = ''__ variable and you are good to go to the next part!
 
 ### Requirements
 
