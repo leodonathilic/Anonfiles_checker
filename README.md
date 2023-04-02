@@ -46,4 +46,4 @@ You can only add one link at the time for now, the script is most likely being u
 That is super easy! All you need to do is launch the script and select `2` as an option, now let the script run, it will display every working and dead links on the screen. It will also send you an email with all the dead links so you can let the script run indefinitely, it will check automatically every 24 hours. 
 
 
-Thank you for using my script. If you encounter any problems or bugs, please create an issue, I'll be more than happy to help!
+Thank you for using my script. If you encounter any problems or bugs, please open an issue, I'll be more than happy to help!
